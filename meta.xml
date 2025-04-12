@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>AeroRadio</name>
+	<version>v0.1test</version>
+	<release_date>20250412000000</release_date>
+	<coder>HomebrewHorizon</coder>
+	<short_description>A radio service</short_description>
+	<long_description>A Radio Service provided by HomebrewHorizon and EDF/LK Services.
+ChangeLog: 
+
+v0.1test
+--------------------------------------------------
+* initial Test
+--------------------------------------------------
+</long_description>
+</app>
